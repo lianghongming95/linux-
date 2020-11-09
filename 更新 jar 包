@@ -1,0 +1,9 @@
+pwd:/home/apaas/biengine/logs
+
+mv A B 把A命名为B
+
+lz 把windows文件导入到linux
+链接：https://blog.csdn.net/guotianqing/article/details/92404661
+
+重启jar包
+sh deploy.sh restart
